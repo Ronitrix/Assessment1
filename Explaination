@@ -1,0 +1,16 @@
+Here is the Explaination of the process i followed to merge the branches:
+1. First i created a remote repository on my guthub account[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+2. Then in cloned that repository on my local sytem using git clone command
+3. Then in c created a local folder Assessment 1 in my D-drive and used git bash in the folder[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+4. Then i created a new branch using git branch branchname command
+5. Then i used git checkout command to enter the KPS_Solution branch
+6. Then i used cat >Ronit_solution command to create a new file in the branch and wrote the contents of the file and used ctrl+d twice to save the file
+7. Then i used the git config --global user.name "Ronit Singh" to enter my name
+8. Then i used the git config --global user.email "ronit.singh@godigit.com" to enter my mail id
+[A[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd . command to add the file
+8. Then i used the git config --global user.name "Ronit Singh" to enter my name
+8. Then i used the git config --global user.email "ronit.singh@godigit.com" to enter my mail id
+9. Then i used git commit -m"list added by ronit" to commit my[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[9[10.[th[T[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C changes
+11.Then i used git push origin KPS_Solution to push my branch
+12.Then i merged my KPS_Solution branch with the main branch using pull request
